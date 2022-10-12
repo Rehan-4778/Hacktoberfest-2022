@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/ELITE BOOK/Desktop/Hacktoberfest/Hacktoberfest-2022/c++",
-      "program": "c:/Users/ELITE BOOK/Desktop/Hacktoberfest/Hacktoberfest-2022/c++/build/Debug/outDebug",
+      "cwd": "c:/Users/ELITE BOOK/Desktop/Hacktoberfest/Hacktoberfest-2022/C#",
+      "program": "c:/Users/ELITE BOOK/Desktop/Hacktoberfest/Hacktoberfest-2022/C#/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
